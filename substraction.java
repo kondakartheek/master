@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Substraction
+class substraction
 {
 public static void main(String args[])
 {
